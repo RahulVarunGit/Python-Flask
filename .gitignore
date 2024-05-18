@@ -1,0 +1,23 @@
+# py -m pip install requests
+# py -m pip list
+# py -m pip install requests==2.31.0
+# py -m pip install -U requests
+# py -m pip uninstall requests
+
+# py -m venv .venv <
+# source .venv/Scripts/activate (Works only in bash) <
+# deactivate
+# py -m pip install -U pip <
+# py -m pip install requests python-dotenv Flask <
+# py -m pip show requests
+# py -m pip install python-dotenv (This is needed on local also)
+
+# pypi.org
+
+# py -m pip freeze > requirements.txt <
+
+# py -m pip install waitress < (new install need pip freeze again)
+
+.venv
+.env
+__pycache__
